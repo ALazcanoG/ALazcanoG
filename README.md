@@ -24,9 +24,6 @@ Hola! soy Arturo Lazcano, estudiante de ingeniería civil matemática y del mag�
     <a href="mailto:arturo.lazcano@ug.uchile.cl">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="CV.pdf">
-        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
 </p>
 
 ## Algunos Datos
