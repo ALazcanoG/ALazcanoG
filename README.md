@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola! soy Arturo Lazcano, estudiante de ingeniería civil matemática en la Universidad de Chile, con un gran interés en la ciencia de datos. Estoy comprometido en aprender y mejorar mis habilidades en esta área, así que espero poder contribuir con varios proyectos en este repositorio. 
-
+Hola! soy Arturo Lazcano, estudiante de ingeniería civil matemática y del magíster en ciencia de datos de la universidad de Chie. Tengo un gran interés en seguir aprendiendo sobre estas disciplinas como en otras áreas de trabajo. 
 <br>
 
 <p align="center">
-    <a href="www.linkedin.com/in/diego-dominguez-d/">
+    <a href="www.linkedin.com/in/arturo-lazcano">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:diego.dominguez.d@ug.uchile.cl">
+    <a href="mailto:arturo.lazcano@ug.uchile.cl">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="CV.pdf">
@@ -32,10 +31,10 @@ Hola! soy Arturo Lazcano, estudiante de ingeniería civil matemática en la Univ
 
 ## Algunos Datos
 
-- 🔭 Actualmente me encuentro aprendiendo sobre machine learning y su relación con distintas áreas de la matemática, tales como la optimización y la estadística. 
-- 🌱 Me interesa aprender más sobre Deep Learning, procesamiento de lenguaje natural y computación en la nube.
-- 😄 Mis hobbies son jugar videojuegos, hacer deporte como el atletismo y explorar historias.
-- 📫 Contacto [diego.dominguez.d@ug.uchile.cl](diego.dominguez.d@ug.uchile.cl).
+- 🔭 Actualmente he realizado 3 prácticas profesionales en: BNP Paribas Cardif, Universidad de O'Higgins y Asociación Chilena de Seguridad. 
+- 🌱 Me interesa aprender más sobre todo lo relacionado a data science .
+- 😄 Mis hobbies son hacer deporte, escuchar música y me gustan los juegos de cartas.
+- 📫 Contacto [arturo.lazcano@ing.uchile.cl](arturo.lazcano@ug.uchile.cl).
 
 <br>
 <br>
@@ -65,5 +64,4 @@ Data Science y Machine Learning Frameworks
 Others
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
