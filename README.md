@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 Hola! soy Arturo Lazcano, estudiante de ingeniería civil matemática y del magíster en ciencia de datos de la universidad de Chie. Tengo un gran interés en seguir aprendiendo sobre estas disciplinas como en otras áreas de trabajo. 
 <br>
 
-<p align="center">
+<!--
+# <p align="center">
     <a href="www.linkedin.com/in/arturo-lazcano">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -25,6 +26,7 @@ Hola! soy Arturo Lazcano, estudiante de ingeniería civil matemática y del mag�
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
+-->
 
 ## Algunos Datos
 
