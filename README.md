@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hola! 👋
 
 <!--
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola! soy Arturo Lazcano, estudiante de ingeniería civil matemática y del magíster en ciencia de datos de la universidad de Chie. Tengo un gran interés en seguir aprendiendo sobre estas disciplinas como en otras áreas de trabajo. 
+Soy Arturo Lazcano, estudiante de ingeniería civil matemática y del magíster en ciencia de datos de la universidad de Chie. Tengo un gran interés en seguir aprendiendo sobre estas disciplinas como en otras áreas de trabajo. 
 <br>
 
 <!--
