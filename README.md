@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Arturo Lazcano, estudiante de ingeniería civil matemática y del magíster en ciencia de datos de la universidad de Chie. Tengo un gran interés en seguir aprendiendo sobre estas disciplinas como en otras áreas de trabajo. 
+Soy Arturo Lazcano, estudiante de ingeniería civil matemática y del magíster en ciencia de datos de la universidad de Chie. Actualmente tengo un repositorio en el cual se puede ver un poco el paso por la universidad en términos de tareas en las que se deba programar una gran variedad de cosas. <br>
+Tengo un gran interés en seguir aprendiendo sobre estas disciplinas como en otras áreas de trabajo. 
 <br>
 
 <!--
@@ -30,7 +31,7 @@ Soy Arturo Lazcano, estudiante de ingeniería civil matemática y del magíster 
 
 ## Algunos Datos
 
-- 🔭 Actualmente he realizado 3 prácticas profesionales en: BNP Paribas Cardif, Universidad de O'Higgins y Asociación Chilena de Seguridad. 
+- 🔭 Actualmente he realizado 3 prácticas profesionales en: BNP Paribas Cardif, Universidad de O'Higgins y la Asociación Chilena de Seguridad (ACHS). 
 - 🌱 Me interesa aprender más sobre todo lo relacionado a data science .
 - 😄 Mis hobbies son hacer deporte, escuchar música y me gustan los juegos de cartas.
 - 📫 Contacto [arturo.lazcano@ing.uchile.cl](arturo.lazcano@ug.uchile.cl).
